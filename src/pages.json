@@ -5,21 +5,6 @@
 			"style": {
 				"navigationStyle": "custom"
 			}
-		},{
-			"path": "pages/feature/index",
-			"style": {
-				"navigationStyle": "custom"
-			}
-		},{
-			"path": "pages/news/index",
-			"style": {
-				"navigationStyle": "custom"
-			}
-		},{
-			"path": "pages/wallet/index",
-			"style": {
-				"navigationStyle": "custom"
-			}
 		}
 	],
 	"globalStyle": {
@@ -33,26 +18,8 @@
 		"selectedColor": "#3cc51f",
 		"borderStyle": "black",
 		"backgroundColor": "#ffffff",
-		"list": [{
-			"pagePath": "pages/home/index",
-			"iconPath": "static/tabbar/index.png",
-			"selectedIconPath": "static/tabbar/index-sel.png",
-			"text": "首页"
-		},{
-			"pagePath": "pages/feature/index",
-			"iconPath": "static/tabbar/feature.png",
-			"selectedIconPath": "static/tabbar/feature-sel.png",
-			"text": "行情"
-		},{
-			"pagePath": "pages/news/index",
-			"iconPath": "static/tabbar/topic.png",
-			"selectedIconPath": "static/tabbar/topic-sel.png",
-			"text": "资讯"
-		},{
-			"pagePath": "pages/wallet/index",
-			"iconPath": "static/tabbar/mine.png",
-			"selectedIconPath": "static/tabbar/mine-sel.png",
-			"text": "钱包"
-		}]
+		"list": [
+		
+		]
 	}
 }

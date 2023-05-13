@@ -10,18 +10,12 @@
             </view>
         </view>
         <view class="right">
-            <view class="mine">
-                <image src="@/static/svg/home-mail.svg"></image>
-            </view>
+          1
         </view>
     </view>
 </template>
 
 <script module="render" lang="renderjs">
-import lottie from 'lottie-web';
-const point = document.getElementById('renderjs-view');
-
-
 
 </script>
 
