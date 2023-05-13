@@ -1,0 +1,23 @@
+<template>
+  <AppPage>
+    
+    <template #header>
+      <Header />
+    </template>
+
+    <template  v-slot:coin>
+      <Chart />
+    </template>
+
+  </AppPage>
+</template>
+
+<script setup lang="ts">
+import AppPage from "@/pages/home/layout/index.vue"
+import Header from '@/pages/home/components/header.vue';
+import Chart from '@/pages/home/components/chart.vue';
+</script>
+
+<style scoped>
+
+</style>
